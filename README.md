@@ -1,5 +1,7 @@
 # MyCom
- Comprehensive E-commerce Platform with Customer and Admin Interfaces.
+ Comprehensive E-commerce Platform with Customer and Admin Interfaces.\
+# Video Playback of Application and its Components
+[Click Here for Preview !!](https://drive.google.com/file/d/1Xk_GMJnbCbcQwGu2j1DFmIlJRx9V6CVg/view?usp=sharing)
 ## 1. [Customer Interface](https://github.com/vaibhavgup3003/MyCom-Customer-End)
 ![screenshot](https://github.com/user-attachments/assets/a1443894-05ff-47c7-81aa-d7d9be34731c)
 
